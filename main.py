@@ -1,0 +1,2 @@
+listSet = {4,5,6,2,1,3}
+print(listSet)
